@@ -1,17 +1,8 @@
-<h1 align="center">Hi, I'm Mario</h1>
-<h3 align="center">A hobbyist indie game developer and C# enjoyer</h3>
-
-- 🔭 I’m currently working on a 3D A.I. intensive Unity game **KorvinGrounds**
-
-- 🌱 I’m currently learning C++ **React/-Native**
-
-- 👨‍💻 All of my projects are available at [https://www.imcnorvik.xyz/](https://www.imcnorvik.xyz/)
-
-- 💬 Ask me about **React, C++, C#, Unity-C#**
-
-- 📫 How to reach me **iordmarioprivat@gmail.com**
-
-- ⚡ Fun fact **I'm a 16 year old student**
+    🌟 Age: 17, Germany, Bavaria
+    💻 Programming Languages: C#, Rust, React, CSS+HTML, React Native, Flutter
+    🚀 Current Project: "Denk_Algorithm" - an encryption tool that can securely encrypt and decrypt text, with plans to expand to file encryption in the near future.
+    💼 Professional Journey: Currently an apprentice software engineer, honing my skills and gaining valuable industry experience.
+    🎯 Hobbies: Apart from coding, you'll find me engrossed in weight-lifting to stay fit, experimenting with cooking delicious meals, and indulging in some gaming adventures.
 
 
 <h3 align="left">Languages and Tools:</h3>
