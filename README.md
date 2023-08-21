@@ -1,4 +1,3 @@
-#### 🌟 Age: 17, Germany, Bavaria (Born: Italy)
 #### 💻 Programming Languages: C#, Rust, React, CSS+HTML, React Native, Flutter
 #### 🚀 Current Project: "Denk_Algorithm" - an encryption tool that can securely encrypt and decrypt text, with plans to expand to file encryption in the near future.
 #### 💼 Professional Journey: Currently an apprentice software engineer, honing my skills and gaining valuable industry experience.
